@@ -19,6 +19,7 @@
 		614012C12475AE11001A7A7E /* BookListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614012C02475AE11001A7A7E /* BookListView.swift */; };
 		614012C32475AE4C001A7A7E /* BookDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614012C22475AE4C001A7A7E /* BookDetailView.swift */; };
 		614012C52475AEA5001A7A7E /* BookView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614012C42475AEA5001A7A7E /* BookView.swift */; };
+		614012C72475BF85001A7A7E /* KittySnackPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614012C62475BF85001A7A7E /* KittySnackPicker.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		614012C02475AE11001A7A7E /* BookListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookListView.swift; sourceTree = "<group>"; };
 		614012C22475AE4C001A7A7E /* BookDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookDetailView.swift; sourceTree = "<group>"; };
 		614012C42475AEA5001A7A7E /* BookView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookView.swift; sourceTree = "<group>"; };
+		614012C62475BF85001A7A7E /* KittySnackPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KittySnackPicker.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				614012A62475A870001A7A7E /* AppDelegate.swift */,
 				614012A82475A870001A7A7E /* SceneDelegate.swift */,
 				614012AA2475A870001A7A7E /* ContentView.swift */,
+				614012C62475BF85001A7A7E /* KittySnackPicker.swift */,
 				614012C02475AE11001A7A7E /* BookListView.swift */,
 				614012C22475AE4C001A7A7E /* BookDetailView.swift */,
 				614012C42475AEA5001A7A7E /* BookView.swift */,
@@ -170,6 +173,7 @@
 				614012BF2475ADB9001A7A7E /* HelpView.swift in Sources */,
 				614012A72475A870001A7A7E /* AppDelegate.swift in Sources */,
 				614012A92475A870001A7A7E /* SceneDelegate.swift in Sources */,
+				614012C72475BF85001A7A7E /* KittySnackPicker.swift in Sources */,
 				614012AB2475A870001A7A7E /* ContentView.swift in Sources */,
 				614012C12475AE11001A7A7E /* BookListView.swift in Sources */,
 				614012BD2475ABA1001A7A7E /* Treat.swift in Sources */,

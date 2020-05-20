@@ -56,6 +56,13 @@ struct BookListView: View {
   }
 }
 
+//struct BookListView_Previews: PreviewProvider {
+//    static var previews: some View {
+//        BookListView()
+//    }
+//}
+
+
 extension Color {
   static let myGreen = Color(red: 21/255, green: 132/255, blue: 67/255)
 }

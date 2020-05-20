@@ -54,3 +54,12 @@ struct BookView: View {
   }
 }
 
+//struct BookView_Previews: PreviewProvider {
+//    static var previews: some View {
+//        GeometryReader { proxy in
+//             BookView(book: Book.demoBooks.randomElement()!, proxy: proxy)
+//            
+//        }
+//       
+//    }
+//}
