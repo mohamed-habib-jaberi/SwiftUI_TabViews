@@ -13,6 +13,7 @@
 		614012AD2475A873001A7A7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 614012AC2475A873001A7A7E /* Assets.xcassets */; };
 		614012B02475A873001A7A7E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 614012AF2475A873001A7A7E /* Preview Assets.xcassets */; };
 		614012B32475A873001A7A7E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 614012B12475A873001A7A7E /* LaunchScreen.storyboard */; };
+		614012BB2475AB49001A7A7E /* Book.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614012BA2475AB49001A7A7E /* Book.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		614012AF2475A873001A7A7E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		614012B22475A873001A7A7E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		614012B42475A873001A7A7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		614012BA2475AB49001A7A7E /* Book.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Book.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		6140129A2475A870001A7A7E = {
 			isa = PBXGroup;
 			children = (
+				614012BA2475AB49001A7A7E /* Book.swift */,
 				614012A52475A870001A7A7E /* SwiftUI_TabViews */,
 				614012A42475A870001A7A7E /* Products */,
 			);
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				614012BB2475AB49001A7A7E /* Book.swift in Sources */,
 				614012A72475A870001A7A7E /* AppDelegate.swift in Sources */,
 				614012A92475A870001A7A7E /* SceneDelegate.swift in Sources */,
 				614012AB2475A870001A7A7E /* ContentView.swift in Sources */,
